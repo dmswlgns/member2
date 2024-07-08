@@ -2,3 +2,6 @@ pizza
 hamburger
 pasta
 gimbab
+bet man
+super man
+iron man
